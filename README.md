@@ -168,11 +168,11 @@ Projects related to on-chain data
 
 ## 💼 Wallets
 Wallet interfaces
-| Name                   | Team                                           | Actively Maintained? | Stack              | Link                                                                                       |
-| ---------------------- | ---------------------------------------------- | -------------------- | ------------------ | ------------------------------------------------------------------------------------------ |
-| Helium Wallet App      | [Helium](https://x.com/helium)                 | Yes                  | TS, React Native   | <a href="https://github.com/helium/wallet-app" target="_blank">View</a>                     |
-| Espresso Cash          | [Espresso Cash](https://x.com/espresso_cash)   | Yes                  | Dart, Flutter      | <a href="https://github.com/espresso-cash/espresso-cash-public" target="_blank">View</a>      |
-| Unruggable             | [Unruggable](https://x.com/unruggable_io)      | Yes                  | Rust, Dioxus       | <a href="https://github.com/hogyzen12/unruggable-app" target="_blank">View</a>               |
+| Name                   | Team                                           | Actively Maintained? | Stack              | License     | Link                                                                                       |
+| ---------------------- | ---------------------------------------------- | -------------------- | ------------------ | ----------- | ------------------------------------------------------------------------------------------ |
+| Helium Wallet App      | [Helium](https://x.com/helium)                 | Yes                  | TS, React Native   | Apache 2.0  | <a href="https://github.com/helium/wallet-app" target="_blank">View</a>                     |
+| Espresso Cash          | [Espresso Cash](https://x.com/espresso_cash)   | Yes                  | Dart, Flutter      | GNU         | <a href="https://github.com/espresso-cash/espresso-cash-public" target="_blank">View</a>      |
+| Unruggable             | [Unruggable](https://x.com/unruggable_io)      | Yes                  | Rust, Dioxus       | TBD         | <a href="https://github.com/hogyzen12/unruggable-app" target="_blank">View</a>               |
 
 <br>
 
